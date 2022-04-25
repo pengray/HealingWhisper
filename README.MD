@@ -1,2 +1,1 @@
-﻿#healingIsGossip
 程序员的心灵鸡汤
